@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## What is Codibots?
-### Codibots is at the forefront of AI chatbot technology, providing an array of applications designed to transform integral facets of your business operations. Our platform unlocks unprecedented possibilities for enhancing operational efficiency, streamlining cost management, and bolstering decision-making processes.With Codibots, you are equipped with versatile AI chatbots tailored to redefine the traditional dynamics of business performance. Our solutions are designed to interact naturally with customers and enterprise users, delivering high-quality service while freeing yourteam to focus on more strategic tasks.
+Codibots is at the forefront of AI chatbot technology, providing an array of applications designed to transform integral facets of your business operations. Our platform unlocks unprecedented possibilities for enhancing operational efficiency, streamlining cost management, and bolstering decision-making processes. With Codibots, you are equipped with versatile AI chatbots tailored to redefine the traditional dynamics of business performance. Our solutions are designed to interact naturally with customers and enterprise users, delivering high-quality service while freeing your team to focus on more strategic tasks.
 
 ## Our UseCases
 
